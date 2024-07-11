@@ -1,0 +1,4 @@
+<!- hanabank autologin API key->
+credential api key
+Hanabank_AccessKEY = "asmmSKhNl2qG4pVg58vLuRjrPR"
+Hanabank_SecretKEY = "skaxhLKsH52sX23asKES242KLs"
